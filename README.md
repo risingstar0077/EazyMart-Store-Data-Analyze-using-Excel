@@ -26,9 +26,7 @@ This project contains an **Excel-based Annual Report Dashboard** that provides i
 
 ## 🛠️ Tools Used  
 - **Microsoft Excel** (Pivot Tables, Charts, Slicers)
-- 
 - **PowerQuery for Data Cleaning & Formatting**
-- 
 - **Data Visualization Techniques**  
 
 ## 🚀 How to Use  
@@ -39,11 +37,9 @@ This project contains an **Excel-based Annual Report Dashboard** that provides i
 4. Modify the dataset as needed to analyze different trends.  
 
 ## 🤝 Contributions  
-
 This is a data analysis project. Feel free to suggest improvements or share your feedback!  
 
 ## 📬 Contact  
-
 For any queries, feel free to connect with me on **[LinkedIn]([https://linkedin.com/in/deepakanilsharma](https://www.linkedin.com/in/deepakdataanalyst/))**. 
 
 Email: dpk9138@gmail.com
