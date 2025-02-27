@@ -19,7 +19,6 @@ This project contains an **Excel-based Annual Report Dashboard** that provides i
 ## 📂 Files Included  
 
 - **Annual_Report_Dashboard.xlsx** – The main Excel file containing the analysis and visualizations.
-- 
 - **Report Preview.png** – A preview image of the dashboard.  
 ![Report Preview](https://github.com/user-attachments/assets/e6da989a-8008-4efa-b413-9de9cd4a4baf)
 
